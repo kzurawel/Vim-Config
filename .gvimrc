@@ -103,7 +103,7 @@ let maplocalleader = "\\"
 
 syntax on
 set background=dark
-colorscheme clouds_midnight
+colorscheme lucius
 
 " Highlight VCS conflict markers
 match ErrorMsg '^\(<\|=\|>\)\{7\}\([^=].\+\)\?$'
